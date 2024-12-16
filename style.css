@@ -5,23 +5,23 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.information-container {
+.info-container {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.information-container img {
+.info-container img {
   width: 100%;
 }
 
-.information-container .matrix-link {
+.info-container .matrix-link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .information-container {
+  .info-container {
     text-align: center;
   }
 }
