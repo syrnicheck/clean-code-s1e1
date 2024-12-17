@@ -121,7 +121,6 @@ button:hover {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eeeeee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
