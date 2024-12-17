@@ -114,7 +114,7 @@ button:hover {
 .task-input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-item {
@@ -143,7 +143,7 @@ button:hover {
 }
 
 .task-item > .task-input {
-  width: 226px
+  width: 226px;
 }
 
 .delete img {
@@ -164,12 +164,12 @@ button:hover {
 
 /* Edit Task */
 .task-list .task-item .task-input{
-  display: none
+  display: none;
 }
 
 .task-list .task-item.edit-mode .task-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-list .task-item.edit-mode .task {
